@@ -11,7 +11,7 @@ I'm a **Full Stack Web Developer** with a passion for programming and a love for
 
 🚀 Eager to explore new and emerging technologies to further enhance my tech skill set
 
-🌍 ✈️ Outside of coding, I'm an enthusiastic traveler, always eager to discover new places and cultures
+🌍 ✈️ Outside of coding, I'm an enthusiastic traveler, always ready to discover new places and cultures
 
 ☕ 🧘 Coffee fuels my coding adventures, while meditation helps me find inner peace in the digital chaos
 

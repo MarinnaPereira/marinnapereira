@@ -1,7 +1,7 @@
 # Olá / Hey there 👋 I'm Marinna ✨
-I'm a Full Stack Web Developer with a passion for programming and a love for tackling coding challenges.
+I'm a **Full Stack Web Developer** with a passion for programming and a love for tackling coding challenges.
 
-🔭 Currently immersed in an intensive 1-year course at DCI, I'm professionalizing in both front-end and back-end development
+🔭 Currently immersed in an intensive 1-year course at DCI - Digital Career Institute, I'm professionalizing in both front-end and back-end development
 
 👩🏻‍💻 In 2022, I transitioned from being a lawyer to pursuing my passion for technology, and I've been on an inspiring journey of learning and creation ever since
 
